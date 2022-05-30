@@ -1,17 +1,2 @@
-BIGFATWEI    /   I
-
-BIGFATWE    /   EI
-
-BIGFATW    /   WEI
-
-BIGFAT    /   TWEI
-
-BIGFA    /   ATWEI
-
-BIGF    /   FATWEI
-
-BIG    /   GFATWEI
-
-BI    /   IGFATWEI
-
-B    /   BIGFATWEI
+Wei
+Big Fat Wei
